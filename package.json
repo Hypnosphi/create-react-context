@@ -1,5 +1,8 @@
 {
-  "name": "create-react-context",
+  "name": "@hypnosphi/create-react-context",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.3.0",
   "description": "Polyfill for the proposed React context API",
   "main": "lib/index.js",
