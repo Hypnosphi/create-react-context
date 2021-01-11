@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Polyfill for the proposed React context API",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
